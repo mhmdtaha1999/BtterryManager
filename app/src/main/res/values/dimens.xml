@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Large_text">25dp</dimen>
+    <dimen name="margin_large">12sp</dimen>
+    <dimen name="normal_text">16sp</dimen>
+    <dimen name="info_charge">28dp</dimen>
+    <dimen name="margin_very_Large">30sp</dimen>
+</resources>
